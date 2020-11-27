@@ -1,8 +1,10 @@
 {
-  "posts": [
+  "getTopUsers": [
     {
-      "id": 1,
-      "title": "test"
+      "data": {
+        "userId":1,
+        "userName":"Ivan"
+      }
     }
   ],
   "profile": {
