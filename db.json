@@ -2,10 +2,10 @@
   "getTopUsers": [
     {
       "data":
-      {
+      [{
         "userId":1,
         "userName":"Ivan"
-      }
+      }]
     }
   ],
   "profile": {
