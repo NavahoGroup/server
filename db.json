@@ -1,6 +1,6 @@
 {
 			totalPages:100,
-			data: 
+			data:[ 
 			{
 				userName: 'AliceTest',
 				totalPurchases: 11,
@@ -8,5 +8,5 @@
 				totalSum: 100,
 				lastWeekTotalSum: 40,
 				userLink:'/link-to-user-page'
-			},
+			},]
 }
