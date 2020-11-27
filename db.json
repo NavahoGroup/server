@@ -5,9 +5,9 @@
       [{
         "userId":1,
         "userName":"Ivan"
-      }]
-    },
+      }],
       "total":100
+    }
   ],
   "profile": {
     "name": "typicode"
