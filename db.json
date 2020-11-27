@@ -1,12 +1,12 @@
 {
-			totalPages:100,
-			data:[ 
+			"totalPages":100,
+			"data": 
 			{
-				userName: 'AliceTest',
-				totalPurchases: 11,
-				lastWeekPurchases: 9,
-				totalSum: 100,
-				lastWeekTotalSum: 40,
-				userLink:'/link-to-user-page'
-			},]
+				"userName": 'AliceTest',
+				"totalPurchases": 11,
+				"lastWeekPurchases": 9,
+				"totalSum": 100,
+				"lastWeekTotalSum": 40,
+				"userLink":'/link-to-user-page'
+			}
 }
