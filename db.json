@@ -1,11 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello, Yar"
-    }
-  ],
-  "profile": {
-    "name": "JW"
-  }
+			totalPages:100,
+			data: 
+			{
+				userName: 'AliceTest',
+				totalPurchases: 11,
+				lastWeekPurchases: 9,
+				totalSum: 100,
+				lastWeekTotalSum: 40,
+				userLink:'/link-to-user-page'
+			},
 }
