@@ -5,12 +5,22 @@
       [{
         "userId":1,
         "userName":"Ivan"
+				"totalPurchases": 11,
+				"lastWeekPurchases": 9,
+				"totalSum": 100,
+				"lastWeekTotalSum": 40,
+				"userLink":"/link-to-user-page"
       },
       {
         "userId":2,
-        "userName":"TIvan"
+        "userName":"DIvan"
+				"totalPurchases": 11,
+				"lastWeekPurchases": 9,
+				"totalSum": 100,
+				"lastWeekTotalSum": 40,
+				"userLink":"/link-to-user-page"
       }],
-      "total":100
+      "totalPages":100
     }
   ],
   "profile": {
