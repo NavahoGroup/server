@@ -1,7 +1,7 @@
 {
   "getTopUsers": [
     {
-      "data":[ 
+      "data": [ 
       {
         "userId":1,
         "userName":"Ivan"
