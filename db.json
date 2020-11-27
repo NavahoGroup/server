@@ -37,7 +37,7 @@
 	"totalSum": 100,
 	"lastWeekTotalSum": 40,
 	"userLink":"/link-to-user-page"
-      }
+      },
       {
         "userId":5,
         "userName":"Ivan",
@@ -55,7 +55,7 @@
 	"totalSum": 100,
 	"lastWeekTotalSum": 40,
 	"userLink":"/link-to-user-page"
-      }
+      },
       {
         "userId":7,
         "userName":"Ivan",
