@@ -78,6 +78,6 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": ["typicode"]
   }
 }
